@@ -1,0 +1,46 @@
+.custom-card{border: 1px solid #ccc;border-radius: 5px;
+}
+.custom-card h4{
+    padding: 12px 10px;
+    background-color: #007bff;
+    color: white;
+    font-size: 15px;
+    font-family: arial;
+}
+.card_body {
+    width: 65%;
+    margin: auto;
+    border: 1px solid #ccc;
+    padding: 20px 68px;
+    margin-top: 20px;
+    background-color: white !important;
+}
+body{
+    overflow-x: hidden;
+background-color: whitesmoke !important;font-size: 13px !important;}
+  .box{
+    border-right: 1px solid #ccc;
+    padding: 9px 6px;
+}  
+.box:last-child{
+    border-right: 0px;
+}
+.ROW{border-bottom: 1px solid #ccc;}
+h6{
+    font-size:7px
+}
+.main_div_h6{width: 65%;
+    margin: auto;
+    background-color: white;
+    padding: 18px 6px;}
+
+
+        .officers{
+            color: white;
+        background-color: #007BFF;
+        text-decoration: none;
+    }
+    .btn_height{
+        height: 38px;
+    }
+    .flex_class{padding: 0px 28px;}
